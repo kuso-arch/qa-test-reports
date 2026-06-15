@@ -1,6 +1,6 @@
 # Отчёт по тестированию Events Widget
 
-**Дата тестирования:** Апрель 2026  
+**Дата тестирования:** Июнь 2026  
 **Сайт:** [https://dev.3s.info/eventswidget/](https://dev.3s.info/eventswidget/)  
 **Тип тестирования:** Functional, UI/UX, Адаптивность, Edge Cases  
 **Тестировщик:** Александр Сергеев 
